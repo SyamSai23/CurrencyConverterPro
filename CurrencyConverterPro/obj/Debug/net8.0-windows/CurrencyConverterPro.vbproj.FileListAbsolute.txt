@@ -1,0 +1,14 @@
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\bin\Debug\net8.0-windows\CurrencyConverterPro.exe
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\bin\Debug\net8.0-windows\CurrencyConverterPro.deps.json
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\bin\Debug\net8.0-windows\CurrencyConverterPro.runtimeconfig.json
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\bin\Debug\net8.0-windows\CurrencyConverterPro.dll
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\bin\Debug\net8.0-windows\CurrencyConverterPro.pdb
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.AssemblyInfoInputs.cache
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.AssemblyInfo.vb
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.vbproj.CoreCompileInputs.cache
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.dll
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\refint\CurrencyConverterPro.dll
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.pdb
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\CurrencyConverterPro.genruntimeconfig.cache
+C:\Users\csyam\Downloads\undergradAssignments\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0-windows\ref\CurrencyConverterPro.dll
